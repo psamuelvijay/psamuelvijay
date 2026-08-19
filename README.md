@@ -49,8 +49,7 @@
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>
-<img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,cassandra" />
 </p>
 
 ### ⛓️ Blockchain & Web3
