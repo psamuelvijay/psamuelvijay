@@ -112,7 +112,7 @@
      width="50"
      height="50"
      alt="Matplotlib"/>
-<img src="https://www.svgrepo.com/show/518253/ocr-tesseract.svg"
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Tesseract_OCR_logo_(Google).png"
      width="50"
      height="50"
      alt="Tesseract OCR"/>
