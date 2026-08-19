@@ -79,10 +79,6 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=googlelens&logoColor=white" />
-<img src="https://img.shields.io/badge/Naive_Bayes-2E2E2E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KNN-2E2E2E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SVM-2E2E2E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/A*_Search-2E2E2E?style=for-the-badge" />
 
 ### Cybersecurity
 <img src="https://skillicons.dev/icons?i=kali" />
