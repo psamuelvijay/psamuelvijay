@@ -108,7 +108,10 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="50" height="50" alt="Pandas"/>
 <img src="https://cdn.simpleicons.org/opencv" width="50" height="50" alt="OpenCV"/>
 <img src="https://cdn.simpleicons.org/scikitlearn" width="50" height="50" alt="Scikit-learn"/>
-<img src="https://cdn.simpleicons.org/matplotlib" width="50" height="50" alt="Matplotlib"/>
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg"
+     width="50"
+     height="50"
+     alt="Matplotlib"/>
 <img src="https://cdn.simpleicons.org/tesseract" width="50" height="50" alt="Tesseract OCR"/>
 </p>
 
