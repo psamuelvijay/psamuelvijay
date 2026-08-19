@@ -102,22 +102,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=psamuelvijay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psamuelvijay&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=psamuelvijay&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=psamuelvijay&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
 
 ## 🎮 Contribution Graph
 
