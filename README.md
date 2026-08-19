@@ -73,7 +73,10 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" width="50" height="50" alt="Ethereum"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" width="50" height="50" alt="Solidity"/>
 <img src="https://cdn.simpleicons.org/web3dotjs" width="50" height="50" alt="Web3.js"/>
-<img src="https://cdn.simpleicons.org/hyperledger" width="50" height="50" alt="Hyperledger Fabric"/>
+<img src="./icons/hyperledger-fabric.png"
+     width="50"
+     height="50"
+     alt="Hyperledger Fabric"/>
 <img src="https://cdn.simpleicons.org/polygon" width="50" height="50" alt="Polygon"/>
 </p>
 
