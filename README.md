@@ -8,7 +8,10 @@
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -31,83 +34,105 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,java,js,go,bash" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="50" height="50" alt="C"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50" height="50" alt="Python"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50" height="50" alt="Java"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50" height="50" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="50" height="50" alt="Go"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="50" height="50" alt="Bash"/>
 </p>
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="50" height="50" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" height="50" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" height="50" alt="React"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="50" height="50" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="50" height="50" alt="Express"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="50" height="50" alt="Flask"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,cassandra" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="50" height="50" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="50" height="50" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="50" height="50" alt="SQLite"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" width="50" height="50" alt="Apache Cassandra"/>
 </p>
 
 ### ⛓️ Blockchain & Web3
 
 <p>
-<img src="https://skillicons.dev/icons?i=ethereum,solidity" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
-<img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" width="50" height="50" alt="Ethereum"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" width="50" height="50" alt="Solidity"/>
+<img src="https://cdn.simpleicons.org/web3dotjs" width="50" height="50" alt="Web3.js"/>
+<img src="https://cdn.simpleicons.org/hyperledger" width="50" height="50" alt="Hyperledger Fabric"/>
+<img src="https://cdn.simpleicons.org/polygon" width="50" height="50" alt="Polygon"/>
 </p>
 
 ### ☁️ Cloud, DevOps & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="50" height="50" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="50" height="50" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" width="50" height="50" alt="Kubernetes"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" width="50" height="50" alt="Terraform"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="50" height="50" alt="Linux"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" height="50" alt="Git"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="50" height="50" alt="GitHub"/>
 </p>
 
 ### 🔌 IoT & Embedded
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" width="50" height="50" alt="Arduino"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" width="50" height="50" alt="Raspberry Pi"/>
+<img src="https://cdn.simpleicons.org/espressif" width="50" height="50" alt="ESP32"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" width="50" height="50" alt="MQTT"/>
 </p>
 
 ### 🤖 AI, ML & Computer Vision
 
 <p>
-<img src="https://skillicons.dev/icons?i=opencv,numpy,pandas,scikitlearn,matplotlib" />
-<img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="50" height="50" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="50" height="50" alt="Pandas"/>
+<img src="https://cdn.simpleicons.org/opencv" width="50" height="50" alt="OpenCV"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="50" height="50" alt="Scikit-learn"/>
+<img src="https://cdn.simpleicons.org/matplotlib" width="50" height="50" alt="Matplotlib"/>
+<img src="https://cdn.simpleicons.org/tesseract" width="50" height="50" alt="Tesseract OCR"/>
 </p>
 
 ### 🔐 Cybersecurity
 
 <p>
-<img src="https://skillicons.dev/icons?i=kali,burpsuite,wireshark" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQLMap-D22128?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" width="50" height="50" alt="Kali Linux"/>
+<img src="https://cdn.simpleicons.org/burpsuite" width="50" height="50" alt="Burp Suite"/>
+<img src="https://cdn.simpleicons.org/wireshark" width="50" height="50" alt="Wireshark"/>
+<img src="https://cdn.simpleicons.org/nmap" width="50" height="50" alt="Nmap"/>
+<img src="https://cdn.simpleicons.org/sqlmap" width="50" height="50" alt="SQLMap"/>
+<img src="https://cdn.simpleicons.org/owasp" width="50" height="50" alt="OWASP"/>
 </p>
 
 ### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,n8n" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50" height="50" alt="Visual Studio Code"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="50" height="50" alt="Postman"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="50" height="50" alt="Jupyter Notebook"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" width="50" height="50" alt="MATLAB"/>
+<img src="https://cdn.simpleicons.org/n8n" width="50" height="50" alt="n8n"/>
 </p>
-
 
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=psamuelvijay&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psamuelvijay&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=psamuelvijay&theme=transparent&hide_border=true" />
@@ -119,14 +144,22 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
 </picture>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=psamuelvijay&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=psamuelvijay&label=Profile%20Views&color=0e75b6&style=flat"
+  alt="Profile Views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:0e75b6&height=120&section=footer" width="100%"/>
