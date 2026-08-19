@@ -112,7 +112,10 @@
      width="50"
      height="50"
      alt="Matplotlib"/>
-<img src="https://cdn.simpleicons.org/tesseract" width="50" height="50" alt="Tesseract OCR"/>
+<img src="https://www.svgrepo.com/show/518253/ocr-tesseract.svg"
+     width="50"
+     height="50"
+     alt="Tesseract OCR"/>
 </p>
 
 ### 🔐 Cybersecurity
