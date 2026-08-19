@@ -132,7 +132,12 @@
   height="50"
   alt="Nmap"
 />
-<img src="https://cdn.simpleicons.org/sqlmap" width="50" height="50" alt="SQLMap"/>
+<img
+  src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png"
+  width="50"
+  height="50"
+  alt="SQLMap"
+/>
 <img src="https://cdn.simpleicons.org/owasp" width="50" height="50" alt="OWASP"/>
 </p>
 
