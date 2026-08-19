@@ -126,7 +126,12 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" width="50" height="50" alt="Kali Linux"/>
 <img src="https://cdn.simpleicons.org/burpsuite" width="50" height="50" alt="Burp Suite"/>
 <img src="https://cdn.simpleicons.org/wireshark" width="50" height="50" alt="Wireshark"/>
-<img src="https://cdn.simpleicons.org/nmap" width="50" height="50" alt="Nmap"/>
+<img
+  src="https://nmap.org/images/nmap-logo-256x256.png"
+  width="50"
+  height="50"
+  alt="Nmap"
+/>
 <img src="https://cdn.simpleicons.org/sqlmap" width="50" height="50" alt="SQLMap"/>
 <img src="https://cdn.simpleicons.org/owasp" width="50" height="50" alt="OWASP"/>
 </p>
