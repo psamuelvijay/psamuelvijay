@@ -180,12 +180,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:0e75b6&height=120&section=footer" width="100%" alt="Footer"/>
 ```
 
-One thing I deliberately **didn't** change is your external icon strategy. The Simple Icons CDN is currently maintained and provides thousands of SVG brand icons, with versioned CDN access available; your existing `cdn.simpleicons.org/...` URLs are therefore reasonable for this README.
-
-And I would **not re-add the GitHub Readme Stats cards** you had before. Your current streak card is enough for the activity section and avoids the two broken cards you were seeing. The streak project itself documents the exact `streak-stats.demolab.com/?user=...` usage you're using.
-
-The overall hierarchy is now:
-
-**Header → identity → About → Tech Stack → GitHub activity → contribution graph → footer**
-
-That's where I'd stop rather than adding more widgets.
