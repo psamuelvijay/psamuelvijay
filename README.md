@@ -112,10 +112,12 @@
      width="50"
      height="50"
      alt="Matplotlib"/>
-<img src="https://www.svgrepo.com/show/518253/ocr-tesseract.png"
-     width="50"
-     height="50"
-     alt="Tesseract OCR"/>
+<img
+  src="https://raw.githubusercontent.com/naptha/tesseract.js/HEAD/docs/images/tesseract.png"
+  width="50"
+  height="50"
+  alt="Tesseract OCR"
+/>
 </p>
 
 ### 🔐 Cybersecurity
