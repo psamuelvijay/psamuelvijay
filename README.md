@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e2de2&height=220&section=header&text=Hi%20There,%20I'm%20Samuel%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Blockchain%20%E2%80%A2%20IoT%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e2de2&height=220&section=header&text=Hi%20There,%20I'm%20Samuel%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Blockchain%20%E2%80%A2%20IoT%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="Samuel header"/>
 
 <a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+across+the+full+stack;Smart+contracts+%26+decentralized+systems;Connecting+IoT+%2B+embedded+devices;Exploring+cybersecurity+%26+offensive+security;Building+ML+%26+computer+vision+systems" alt="Typing SVG"/>
@@ -8,10 +8,23 @@
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- Replace # with your actual profile URLs -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+</a>
+&nbsp;
+<a href="mailto:#">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -22,7 +35,7 @@
 * 🔭 Building systems across **Web3, IoT, cybersecurity and AI/ML**
 * ⛓️ Working with **Hyperledger Fabric, Ethereum, Solidity and Polygon**
 * 🌐 Developing full-stack applications with **React, Node.js and Flask**
-* 🔌 Building IoT systems using **ESP32, MQTT and embedded devices**
+* 🔌 Building IoT systems with **ESP32, Arduino and MQTT**
 * 🔐 Exploring **network security, penetration testing and ethical hacking**
 * 🤖 Working with **machine learning, computer vision and OCR**
 * 🐳 Using **Linux, Docker and Git** for development and deployment
@@ -54,7 +67,7 @@
 
 <p>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="50" height="50" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="50" height="50" alt="Express"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="50" height="50" alt="Express.js"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="50" height="50" alt="Flask"/>
 </p>
 
@@ -73,10 +86,7 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" width="50" height="50" alt="Ethereum"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" width="50" height="50" alt="Solidity"/>
 <img src="https://cdn.simpleicons.org/web3dotjs" width="50" height="50" alt="Web3.js"/>
-<img src="./icons/hyperledger-fabric.png"
-     width="50"
-     height="50"
-     alt="Hyperledger Fabric"/>
+<img src="./icons/hyperledger-fabric.png" width="50" height="50" alt="Hyperledger Fabric"/>
 <img src="https://cdn.simpleicons.org/polygon" width="50" height="50" alt="Polygon"/>
 </p>
 
@@ -108,16 +118,8 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="50" height="50" alt="Pandas"/>
 <img src="https://cdn.simpleicons.org/opencv" width="50" height="50" alt="OpenCV"/>
 <img src="https://cdn.simpleicons.org/scikitlearn" width="50" height="50" alt="Scikit-learn"/>
-<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg"
-     width="50"
-     height="50"
-     alt="Matplotlib"/>
-<img
-  src="https://raw.githubusercontent.com/naptha/tesseract.js/HEAD/docs/images/tesseract.png"
-  width="50"
-  height="50"
-  alt="Tesseract OCR"
-/>
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg" width="50" height="50" alt="Matplotlib"/>
+<img src="https://raw.githubusercontent.com/naptha/tesseract.js/HEAD/docs/images/tesseract.png" width="50" height="50" alt="Tesseract OCR"/>
 </p>
 
 ### 🔐 Cybersecurity
@@ -126,18 +128,8 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" width="50" height="50" alt="Kali Linux"/>
 <img src="https://cdn.simpleicons.org/burpsuite" width="50" height="50" alt="Burp Suite"/>
 <img src="https://cdn.simpleicons.org/wireshark" width="50" height="50" alt="Wireshark"/>
-<img
-  src="https://nmap.org/images/nmap-logo-256x256.png"
-  width="50"
-  height="50"
-  alt="Nmap"
-/>
-<img
-  src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png"
-  width="50"
-  height="50"
-  alt="SQLMap"
-/>
+<img src="https://nmap.org/images/nmap-logo-256x256.png" width="50" height="50" alt="Nmap"/>
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png" width="50" height="50" alt="SQLMap"/>
 <img src="https://cdn.simpleicons.org/owasp" width="50" height="50" alt="OWASP"/>
 </p>
 
@@ -156,7 +148,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=psamuelvijay&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=psamuelvijay&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -172,10 +164,12 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
   <img
-    alt="pacman contribution graph"
+    alt="Pacman contribution graph"
     src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
 </picture>
 </p>
+
+---
 
 <p align="center">
 <img
@@ -183,4 +177,15 @@
   alt="Profile Views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:0e75b6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:0e75b6&height=120&section=footer" width="100%" alt="Footer"/>
+```
+
+One thing I deliberately **didn't** change is your external icon strategy. The Simple Icons CDN is currently maintained and provides thousands of SVG brand icons, with versioned CDN access available; your existing `cdn.simpleicons.org/...` URLs are therefore reasonable for this README.
+
+And I would **not re-add the GitHub Readme Stats cards** you had before. Your current streak card is enough for the activity section and avoids the two broken cards you were seeing. The streak project itself documents the exact `streak-stats.demolab.com/?user=...` usage you're using.
+
+The overall hierarchy is now:
+
+**Header → identity → About → Tech Stack → GitHub activity → contribution graph → footer**
+
+That's where I'd stop rather than adding more widgets.
