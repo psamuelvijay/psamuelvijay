@@ -55,9 +55,11 @@
 ### ⛓️ Blockchain & Web3
 
 <p>
-<img src="https://skillicons.dev/icons?i=ethereum,solidity,polygon"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=solidity" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
+<img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white" />
 </p>
 
 ### ☁️ Cloud, DevOps & Infrastructure
@@ -69,31 +71,31 @@
 ### 🔌 IoT & Embedded
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
 </p>
 
 ### 🤖 AI, ML & Computer Vision
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,opencv"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### 🔐 Cybersecurity
 
 <p>
-<img src="https://skillicons.dev/icons?i=kali,linux"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQLMap-D22128?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=kali,linux" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLMap-D22128?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Platforms
