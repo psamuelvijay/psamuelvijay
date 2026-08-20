@@ -148,14 +148,8 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/github-streak-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/github-streak-dark.svg"/>
-  <img alt="GitHub Streak Stats"
-    src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/github-streak-dark.svg"/>
-</picture>
+<img alt="GitHub Streak Stats"
+  src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/main/github-streak.svg"/>
 </div>
 
 ---
