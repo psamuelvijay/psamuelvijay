@@ -1,0 +1,43 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Streak Stats (Dark)
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        with:
+          USERNAME: psamuelvijay
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: dark
+          OUTPUT_PATH: github-streak-dark.svg
+          RING: "FF6B35"
+          FIRE: "F7931E"
+          BACKGROUND: "0d1117"
+          STROKE: "FF6B35"
+          CURR_STREAK_NUM: "ffffff"
+          SIDE_NUMS: "ffffff"
+          CURR_STREAK_LABEL: "FF6B35"
+          DATES: "888888"
+          ANIMATED: "true"
+          HIDE_BORDER: "false"
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4.2.0
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
