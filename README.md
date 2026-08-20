@@ -148,8 +148,12 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-<img alt="GitHub Streak Stats"
-  src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/main/github-streak.svg"/>
+
+![Followers](https://img.shields.io/github/followers/psamuelvijay?style=for-the-badge&color=FF6B35&labelColor=0d1117&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/psamuelvijay?style=for-the-badge&color=F7931E&labelColor=0d1117&logo=github&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpsamuelvijay&query=%24.public_repos&style=for-the-badge&color=FF6B35&labelColor=0d1117&logo=github&label=Public%20Repos)
+![Profile Views](https://komarev.com/ghpvc/?username=psamuelvijay&style=for-the-badge&color=FF6B35&label=Profile+Views)
+
 </div>
 
 ---
@@ -171,11 +175,5 @@
 </p>
 
 ---
-
-<p align="center">
-<img
-  src="https://komarev.com/ghpvc/?username=psamuelvijay&label=Profile%20Views&color=FF6B35&style=flat"
-  alt="Profile Views"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7931E,100:FF6B35&height=120&section=footer" width="100%" alt="Footer"/>
