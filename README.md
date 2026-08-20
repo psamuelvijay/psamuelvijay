@@ -149,11 +149,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psamuelvijay&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=F7931E&text_color=ffffff&ring_color=FF6B35)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=psamuelvijay&theme=dark&hide_border=true&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=F7931E&currStreakLabel=FF6B35&sideLabels=FF6B35&currStreakNum=ffffff&sideNums=ffffff&dates=888888)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psamuelvijay&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=ffffff)
+![Metrics](https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/main/github-metrics.svg)
 
 </div>
 
