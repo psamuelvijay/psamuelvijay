@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e2de2&height=220&section=header&text=Hi%20There,%20I'm%20Samuel%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Blockchain%20%E2%80%A2%20IoT%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="Samuel header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:F7931E&height=220&section=header&text=Hi%20There,%20I'm%20Samuel%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Blockchain%20%E2%80%A2%20IoT%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="Samuel header"/>
 
 <a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+across+the+full+stack;Smart+contracts+%26+decentralized+systems;Connecting+IoT+%2B+embedded+devices;Exploring+cybersecurity+%26+offensive+security;Building+ML+%26+computer+vision+systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=700&lines=Building+across+the+full+stack;Smart+contracts+%26+decentralized+systems;Connecting+IoT+%2B+embedded+devices;Exploring+cybersecurity+%26+offensive+security;Building+ML+%26+computer+vision+systems" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -147,9 +147,15 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=psamuelvijay&theme=transparent&hide_border=true&stroke=0E75B6&ring=8E2DE2&fire=0E75B6&currStreakLabel=8E2DE2" alt="GitHub Streak"/>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psamuelvijay&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=F7931E&text_color=ffffff&ring_color=FF6B35)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=psamuelvijay&theme=dark&hide_border=true&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=F7931E&currStreakLabel=FF6B35&sideLabels=FF6B35&currStreakNum=ffffff&sideNums=ffffff&dates=888888)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psamuelvijay&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=ffffff)
+
+</div>
 
 ---
 
@@ -173,8 +179,8 @@
 
 <p align="center">
 <img
-  src="https://komarev.com/ghpvc/?username=psamuelvijay&label=Profile%20Views&color=0e75b6&style=flat"
+  src="https://komarev.com/ghpvc/?username=psamuelvijay&label=Profile%20Views&color=FF6B35&style=flat"
   alt="Profile Views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:0e75b6&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7931E,100:FF6B35&height=120&section=footer" width="100%" alt="Footer"/>
