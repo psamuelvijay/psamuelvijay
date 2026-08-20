@@ -148,7 +148,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=psamuelvijay&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=psamuelvijay&theme=transparent&hide_border=true&stroke=0E75B6&ring=8E2DE2&fire=0E75B6&currStreakLabel=8E2DE2" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -178,5 +178,3 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:0e75b6&height=120&section=footer" width="100%" alt="Footer"/>
-```
-
