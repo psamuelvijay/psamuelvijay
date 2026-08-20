@@ -148,12 +148,14 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-
-![Followers](https://img.shields.io/github/followers/psamuelvijay?style=for-the-badge&color=FF6B35&labelColor=0d1117&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/psamuelvijay?style=for-the-badge&color=F7931E&labelColor=0d1117&logo=github&label=Total%20Stars)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpsamuelvijay&query=%24.public_repos&style=for-the-badge&color=FF6B35&labelColor=0d1117&logo=github&label=Public%20Repos)
-![Profile Views](https://komarev.com/ghpvc/?username=psamuelvijay&style=for-the-badge&color=FF6B35&label=Profile+Views)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/github-streak.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/github-streak.svg"/>
+  <img alt="GitHub Streak Stats"
+    src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/github-streak.svg"/>
+</picture>
 </div>
 
 ---
