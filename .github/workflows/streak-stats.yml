@@ -24,12 +24,8 @@ jobs:
           OUTPUT_PATH: dist/github-streak.svg
           RING: "FF6B35"
           FIRE: "F7931E"
-          BACKGROUND: "0d1117"
           STROKE: "FF6B35"
-          CURR_STREAK_NUM: "ffffff"
-          SIDE_NUMS: "ffffff"
-          CURR_STREAK_LABEL: "FF6B35"
-          DATES: "aaaaaa"
+          ANIMATED: "true"
           ANIMATED: "true"
           HIDE_BORDER: "false"
 
