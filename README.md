@@ -149,7 +149,7 @@
 
 <div align="center">
 
-![Metrics](https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/main/github-metrics.svg)
+<img src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/main/github-metrics.svg" alt="GitHub Metrics" width="495"/>
 
 </div>
 
