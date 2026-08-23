@@ -22,11 +22,16 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: be-next/github-streak-stats-action@v1
         with:
-          options: user=psamuelvijay&theme=dark&timezone=Asia/Kolkata&ring=FF6B35&fire=F7931E&stroke=FF6B35&disable_animations=true
-          path: profile/streak.svg
+          username: psamuelvijay
           token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: profile/streak.svg
+          theme: dark
+          timezone: Asia/Kolkata
+          stroke: FF6B35
+          ring: FF6B35
+          fire: F7931E
 
       - name: Commit Streak Stats
         run: |
