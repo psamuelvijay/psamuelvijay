@@ -19,23 +19,19 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Generate Streak Stats
-        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          USERNAME: psamuelvijay
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          THEME: dark
-          OUTPUT_PATH: profile/streak.svg
-          RING: "FF6B35"
-          FIRE: "F7931E"
-          STROKE: "FF6B35"
+          options: user=psamuelvijay&theme=dark&timezone=Asia/Kolkata&ring=FF6B35&fire=F7931E&stroke=FF6B35&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Streak Stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git diff --cached --quiet || git commit -m "Update streak stats [skip ci]"
+          git commit -m "Update streak stats [skip ci]" || exit 0
           git push
