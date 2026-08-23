@@ -163,17 +163,12 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
+<div align="center">
   <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
-</picture>
+    src="./profile/streak.svg"
+    alt="GitHub Streak Stats"
+  />
+</div>
 </p>
 
 ---
