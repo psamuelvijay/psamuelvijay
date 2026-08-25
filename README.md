@@ -148,14 +148,10 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/github-streak.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/github-streak.svg"/>
-  <img alt="GitHub Streak Stats"
-    src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/github-streak.svg"/>
-</picture>
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Streak Stats"
+  />
 </div>
 
 ---
@@ -163,12 +159,17 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-<div align="center">
-  <img
-    src="./profile/streak.svg"
-    alt="GitHub Streak Stats"
-  />
-</div>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/psamuelvijay/psamuelvijay/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
